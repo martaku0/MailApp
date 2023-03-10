@@ -1,0 +1,177 @@
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\MailApp.dll.config
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\MailApp.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\MailApp.pdb
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csc.exe
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csc.exe.config
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csc.rsp
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csi.exe
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csi.exe.config
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\csi.rsp
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.AppContext.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Console.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.exe
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.exe.config
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.rsp
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.AssemblyReference.cache
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.dll
+C:\Users\Kurowska Marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.pdb
+C:\Users\marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.AssemblyReference.cache
+C:\Users\marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.dll
+C:\Users\marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.pdb
+C:\Users\marta\source\repos\MailApp\MailApp\bin\MailApp.dll.config
+C:\Users\marta\source\repos\MailApp\MailApp\bin\MailApp.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\MailApp.pdb
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csc.exe
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csc.exe.config
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csc.rsp
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csi.exe
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csi.exe.config
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\csi.rsp
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.AppContext.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Console.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Net.Http.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.exe
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.exe.config
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\vbc.rsp
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\source\repos\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\source\repos\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\source\repos\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\source\repos\MailApp\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\MailApp.dll.config
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\MailApp.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\MailApp.pdb
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csc.exe
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csc.exe.config
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csc.rsp
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csi.exe
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csi.exe.config
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\csi.rsp
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.AppContext.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Console.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Net.Http.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\vbc.exe
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\vbc.exe.config
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\vbc.rsp
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\obj\Debug\MailApp.csproj.AssemblyReference.cache
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\obj\Debug\MailApp.csproj.CopyComplete
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\obj\Debug\MailApp.dll
+C:\Users\marta\Downloads\MailApp (1)\MailApp\MailApp\obj\Debug\MailApp.pdb

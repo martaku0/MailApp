@@ -1,0 +1,124 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Almarai', sans-serif;
+    font-size: 16px;
+}
+
+.textbox:focus, .listbox:focus, .textbox:active, .listbox:focus, .button:focus, .button:active, .upload input:focus, .upload input:active {
+    outline: none;
+    box-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 2px #bc13fe, 0 0 4px #bc13fe, 0 0 10px #bc13fe, inset 0 0 10px #bc13fe;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.button {
+    padding: 10px;
+    font-weight: 1000;
+    color: white;
+    border-radius: 10px;
+}
+
+.textbox, .listbox {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid white;
+    background-color: #1a1a1a;
+    color: white;
+    width: 400px;
+}
+
+.serwer .textbox {
+    width: 200px;
+}
+
+.upload {
+    text-align: center;
+    padding: 20px;
+}
+
+.upload input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 20px auto;
+    align-items: center;
+    width: 600px;
+    padding: 10px;
+    border: 0.2rem solid #fff;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 2px #bc13fe, 0 0 8px #bc13fe, 0 0 20px #bc13fe, inset 0 0 20px #bc13fe;
+    justify-content: center;
+}
+
+.bt-clear, .bt-change, .bt-save {
+    background-color: #800080;
+    border-color: #4d004d;
+}
+
+.bt-clear:hover, .bt-change:hover, .bt-save:hover, .upload input:hover {
+    background-color: #4d004d;
+    box-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 2px #bc13fe, 0 0 4px #bc13fe, 0 0 10px #bc13fe, inset 0 0 10px #bc13fe;
+    cursor: pointer;
+}
+
+.bt-send {
+    background-color: #006080;
+    border-color: #00394d;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.bt-send:hover, .bt-send:focus, .bt-send:active {
+    background-color: #00a8e6;
+    box-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 2px #00a8e6, 0 0 4px #00a8e6, 0 0 10px #00a8e6, inset 0 0 10px #00a8e6;
+}
+
+div {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+div.not-row {
+    flex-direction: column;
+}
+
+.center {
+    justify-content: center;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: right;
+}
+
+.message {
+    flex-direction: column;
+}
+
+.auto-style1 {
+    text-align: right;
+}
+
+.auto-style2 {
+    text-align: left;
+}
+
+.auto-style3 {
+    text-align: center;
+}
